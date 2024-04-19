@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/filtur/FrontEndMentor-QRComponent)
+- Live Site URL: [Github Page](https://filtur.github.io/FrontEndMentor-QRComponent/)
 
 ## My process
 
@@ -42,4 +42,4 @@ First time using Figma. I learned about translating a Figma page to HTML/CSS
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/filtur)
+- Frontend Mentor - [@filtur](https://www.frontendmentor.io/profile/filtur)
