@@ -41,9 +41,3 @@ h2 {
   text-align: center;
   padding-bottom: 24px;
 }
-
-@media screen and (min-width: 1024px) {
-  .text-container {
-    padding-bottom: 0;
-  }
-}
